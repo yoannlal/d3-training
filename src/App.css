@@ -1,0 +1,16 @@
+.app {
+  text-align: center;
+  margin: 0 auto;
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+}
+
+#d3-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
